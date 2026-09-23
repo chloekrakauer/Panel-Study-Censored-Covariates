@@ -1,2 +1,2 @@
 # Panel-Study-Censored-Covariates
-A repository of code accompanying the paper "TBD".
+This is a repository of code accompanying the paper "TBD" that is in progress. 
